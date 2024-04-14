@@ -1,0 +1,9 @@
+#geoip-result {
+    visibility: hidden;
+}
+#geoip-result.has_result {
+    visibility: visible;
+}
+#error-block-geoip {
+    color: red;
+}
